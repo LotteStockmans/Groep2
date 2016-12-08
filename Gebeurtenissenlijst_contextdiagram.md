@@ -58,6 +58,8 @@ Op de dag van de verkoop gaan de vrijwilligers alle verkoop lijsten in één lij
 Het bestuur zorgt ervoor dat de lijsten worden afgeprint samen met de verkoop etiketten, er wordt ook bepaald hoeveel toeslag de verkopers moeten betalen per verkocht item.  Het bestuur zorgt er ook voor dat alle elektrische toestellen kunnen getest worden. De vrijwilligers hebben nu alle nodige middelen om de spullen te verkopen.  
 Ze gaan alle verkopen bijhouden aan de hand van de lijstnummers van de verkoper, zo weten ze al welke items van welke verkoper uit de deur zijn.  
 
+** salto **
+
 De vrijwilliger gaat bij de verkoop indien iemand zegt een lid te zijn de gegevens controleren die op de lidkaart staan en deze vergelijken met de gegevens die ze krijgen over alle leden. De prijs wordt dan herrekend naargelang dat iemand een lid is of niet. Na elke verkoop worden de lijsten aangepast en opnieuw gegenereerd door het bestuur. Als iets verkocht wordt, verandert de status van het item zodat het bestuur weet dat het verkocht is.  
 Er is ook een lijst waar elk verkocht artikel staat samen met de naam van de klant, deze wordt bijgehouden door de vrijwilligers.
 Na de afloop van de beurs maakt het bestuur het kasoverzicht. Ze krijgen uiteindelijk ook alle facturen van alle kosten van de beurs.
